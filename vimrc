@@ -1,0 +1,27 @@
+execute pathogen#infect()
+syntax on
+set pastetoggle=<F2>
+set showmode
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set smarttab
+set expandtab
+set shiftround
+set autoindent
+set copyindent
+set ignorecase
+set smartcase
+set showmatch
+set hlsearch
+set incsearch
+set scrolloff=5
+set backspace=2
+set number
+set ruler
+set visualbell
+set noerrorbells
+set laststatus=2
+set tags=tags;/
+colorscheme dante
+
